@@ -6,4 +6,8 @@
     <RootNamespace>learningC_</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Text.json" Version="5.0.0" />
+  </ItemGroup>
+
 </Project>
